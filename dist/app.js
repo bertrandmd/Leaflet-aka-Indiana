@@ -96,7 +96,7 @@
 	  "OSM": osm
 	};
 
-	var adherents = L.geoJson.ajax("/data/adherents_lr.geojson", {
+	var adherents = L.geoJson.ajax("data/adherents_lr.geojson", {
 	  //onEachFeature:onEachFeature,
 	  //style:myStyle
 
