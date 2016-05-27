@@ -5,7 +5,7 @@ require("leaflet_marker_2x");
 require("leaflet_marker_shadow");
 leaflet = require('leaflet');
 require('leaflet-ajax');
-require("font-awesome-webpack");
+//require("font-awesome-webpack");
 //require('font_awesome_css');
 require('drmonty-leaflet-awesome-markers');
 require('drmonty_leaflet_awesome_markers_matte');

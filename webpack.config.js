@@ -55,7 +55,7 @@ module.exports = {
 
     output: {
         path: path.join(__dirname, "dist"),
-        publicPath: "/dist/",
+        publicPath: "/test-del/dist/",
         filename: "[name].js",
         pathInfo: true
     },
