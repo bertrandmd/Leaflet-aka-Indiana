@@ -45,7 +45,7 @@ grayscale = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?ac
   id: 'mapbox.light'
 });
 
-L.Icon.Default.imagePath = '/Leaflet-aka-Indiana/dist/images';
+L.Icon.Default.imagePath = '/dist/images';
 //Map
 map = L.map('map', {
   //center: [43.58238046828168,3.900146484375],
