@@ -34,7 +34,7 @@
 /******/ 	__webpack_require__.c = installedModules;
 
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "Leaflet-aka-Indiana/dist/";
+/******/ 	__webpack_require__.p = "/Leaflet-aka-Indiana/dist/";
 
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(0);
@@ -83,7 +83,7 @@
 	  id: 'mapbox.light'
 	});
 
-	L.Icon.Default.imagePath = '/dist/images';
+	L.Icon.Default.imagePath = 'Leaflet-aka-Indiana/dist/images';
 	//Map
 	map = L.map('map', {
 	  //center: [43.58238046828168,3.900146484375],
